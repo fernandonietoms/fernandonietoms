@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**fernandonietoms/fernandonietoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
     <h1>Welcome to <b>@fernandonietoms</b> repository</h1>
     <h3>A mexican programmer focused on developing projects on Unreal Engine and Unity. I believe that everyone must enjoy everything they do so, why don't we do a gamification of the world?</h3>
@@ -29,3 +12,74 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+ ### ❓ About Me:
+
+ - 📬 Contact me: [fernando.nietoms@gmail.com](fernando.nietoms@gmail.com)
+ - 🧠 I want to learn: React.js, SAP
+
+ ### ⚙️ Languages and Tools:
+<div class="row" style='margin-left:900;'>
+    <a class="icon">
+        <img src="https://campusnet.es/wp-content/uploads/2021/06/UnrealEngine.png" alt="Java" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/5969/5969346.png" alt="Unity" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" alt="Java" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="C#" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JS" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="NodeJS" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" alt="SQL" width="40" height="40">
+    </a>
+    <a class="icon">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="PHP" width="40" height="40">
+    </a>
+</div>
+
+ ---
+
+ ### Projects:
+
+ This are some of the projects where I've worked
+<ul>
+    <li>
+        <div><h3><a href="https://play.google.com/store/apps/details?id=com.MindflyStudio.ArmentaTour&hl=es_MX&gl=US">Armenta Tour</a></h3></div>
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Armenta%20Tour/AT%201.png?raw=true" alt="Armenta 1" width="400" height="280">
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Armenta%20Tour/AT%202.png?raw=true" alt="Armenta 2" width="200" height="280">
+    </li>
+    <li>
+        <div><h3><a href="https://play.google.com/store/apps/details?id=com.DTI.TaqueroSimulatorAR&hl=es_MX&gl=US">Taquero Simulator AR</a></h3></div>
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%201.png?raw=true" alt="Taquero 1" width="400" height="280">
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%202.png?raw=true" alt="Taquero 2" width="400" height="280">
+    </li>
+    <li>
+        <div><h3><a href="https://bondzu.com/es/index.html">Bondzù</a></h3></div>
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%201.png?raw=true" alt="Bondzu 1" width="400" height="280">
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%202.jpg?raw=true" alt="Bondzu 2" width="200" height="280">
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%203.jpg?raw=true" alt="Bondzu 3" width="200" height="280">
+    </li>
+    <li>
+        <div><h3>Builder Game</h3></div>
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Builder%20Game/BG%201.png?raw=true" alt="Builder 1" width="400" height="280">
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Builder%20Game/BG%202.png?raw=true" alt="Builder 2" width="400" height="280">
+    </li>
+</ul>
