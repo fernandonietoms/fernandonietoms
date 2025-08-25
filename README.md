@@ -62,17 +62,12 @@
  This are some of the projects where I've worked
 <ul>
     <li>
-        <div><h3><a href="https://play.google.com/store/apps/details?id=com.MindflyStudio.ArmentaTour&hl=es_MX&gl=US">Armenta Tour</a></h3></div>
-        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Armenta%20Tour/AT%201.png?raw=true" alt="Armenta 1" width="400" height="280">
-        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Armenta%20Tour/AT%202.png?raw=true" alt="Armenta 2" width="200" height="280">
-    </li>
-    <li>
         <div><h3><a href="https://play.google.com/store/apps/details?id=com.DTI.TaqueroSimulatorAR&hl=es_MX&gl=US">Taquero Simulator AR</a></h3></div>
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%201.png?raw=true" alt="Taquero 1" width="400" height="280">
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%202.png?raw=true" alt="Taquero 2" width="400" height="280">
     </li>
     <li>
-        <div><h3><a href="https://bondzu.com/es/index.html">Bondzù</a></h3></div>
+        <div><h3><a href="https://bondzu.com">Bondzù</a></h3></div>
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%201.png?raw=true" alt="Bondzu 1" width="400" height="280">
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%202.jpg?raw=true" alt="Bondzu 2" width="200" height="280">
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%203.jpg?raw=true" alt="Bondzu 3" width="200" height="280">
