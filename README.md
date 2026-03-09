@@ -67,12 +67,6 @@
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%202.png?raw=true" alt="Taquero 2" width="400" height="280">
     </li>
     <li>
-        <div><h3><a href="https://bondzu.com">Bondzù</a></h3></div>
-        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%201.png?raw=true" alt="Bondzu 1" width="400" height="280">
-        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%202.jpg?raw=true" alt="Bondzu 2" width="200" height="280">
-        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Bondzu/Bz%203.jpg?raw=true" alt="Bondzu 3" width="200" height="280">
-    </li>
-    <li>
         <div><h3>Builder Game</h3></div>
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Builder%20Game/BG%201.png?raw=true" alt="Builder 1" width="400" height="280">
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Builder%20Game/BG%202.png?raw=true" alt="Builder 2" width="400" height="280">
