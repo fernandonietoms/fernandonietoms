@@ -62,13 +62,50 @@
  This are some of the projects where I've worked
 <ul>
     <li>
-        <div><h3><a href="https://play.google.com/store/apps/details?id=com.DTI.TaqueroSimulatorAR&hl=es_MX&gl=US">Taquero Simulator AR</a></h3></div>
+        <div><h3>
+            <a href="https://play.google.com/store/apps/details?id=com.DTI.TaqueroSimulatorAR&hl=es_MX&gl=US">Taquero Simulator AR</a>
+            <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Android" width="40" height="40">
+            <img src="https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000" alt="Unity" width="40" height="40">
+        </h3></div>
+        <div>You play as the owner of a street tacos cart and you have to complete different levels. Cook the meat, chop it and make the tacos to deliver the orders of your clients</div>
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%201.png?raw=true" alt="Taquero 1" width="400" height="280">
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/TaqueroSimulator%20AR/TS%202.png?raw=true" alt="Taquero 2" width="400" height="280">
+        <div><h4>Contributions:</h4></div>
+        <ul>
+            <li> Map: Interaction system with objects in the scene </li>
+            <li> Store: Buy/Upgrade functions and HUD design </li>
+            <li> Rewards HUD </li>
+        </ul>
     </li>
     <li>
-        <div><h3>Builder Game</h3></div>
+        <div><h3>
+            Builder Game
+            <img src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000" alt="Unreal Engine" width="40" height="40">
+        </h3></div>
+        <div>This is a private project of a customer that needed to create a Sims-like building system </div>
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Builder%20Game/BG%201.png?raw=true" alt="Builder 1" width="400" height="280">
         <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Builder%20Game/BG%202.png?raw=true" alt="Builder 2" width="400" height="280">
+        <div><h4>Contributions:</h4></div>
+        <ul>
+            <li> Building HUD: Basic interface and all the functions to load the selected furniture button into the map </li>
+            <li> Building System: Place the furniture and walls over a grid inside the map  </li>
+            <li> Camera: Main camera movement Top-Down over the world </li>
+        </ul>
+    </li>
+    <li>
+        <div><h3>
+            <a href="https://apps.apple.com/es/app/armenta-tour/id6468273238">Armenta Tour</a>
+            <img src="https://img.icons8.com/?size=100&id=e9ne6HZHvrji&format=png&color=000000" alt="Apple" width="40" height="40">
+            <img src="https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000" alt="Unity" width="40" height="40">
+        </h3></div>
+        <div>The game was developed for the gobernor of Puebla, Armenta, and is an endless-runner where you have to collect seeds, as a part of his political proposes to help the environment</div>
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Armenta%20Tour/AT%201.png?raw=true" alt="Taquero 1" width="400" height="280">
+        <img src="https://github.com/fernandonietoms/fernandonietoms/blob/main/Photos/Armenta%20Tour/AT%202.png?raw=true" alt="Taquero 2" width="400" height="280">
+        <div><h4>Contributions:</h4></div>
+        <ul>
+            <li> Map: Design and infinite loop generation </li>
+            <li> Movement: Player Movements (Touchscreen/Buttons) and Camera </li>
+            <li> Collectables: Objects to score and Scoreboard </li>
+        </ul>
     </li>
 </ul>
